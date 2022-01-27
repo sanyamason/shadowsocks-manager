@@ -64,7 +64,7 @@
     "qr-image": "^3.2.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "simple-get": "^3.1.0",
+    "simple-get": "^4.0.1",
     "socks": "^2.6.1",
     "sqlite3": "^5.0.0",
     "uuid": "^3.4.0",
